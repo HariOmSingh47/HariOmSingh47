@@ -54,13 +54,13 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Hariom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HariOmSingh47&show_icons=true&theme=tokyonight" alt="Hariom's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Hariom's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariOmSingh47&theme=tokyonight" alt="Hariom's Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariOmSingh47&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -77,4 +77,4 @@
 
 ---
 
-⭐ From [Hariom Singh](https://github.com/YOUR_GITHUB_USERNAME)
+⭐ From [Hariom Singh](https://github.com/HariOmSingh47)
